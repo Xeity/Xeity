@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xeity
+- 👋 Hi, I’m @Raphael Rubio
 - 👀 I’m interested in games
 - 🌱 I’m currently learning Microsoft visual basic
 - 💞️ I’m looking to teach me how to code good
